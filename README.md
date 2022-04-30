@@ -2,7 +2,7 @@
 
 A simple `course project` for `data structure`.
 
-In this project, I constructed a function demonstration system with menu to realize the basic operation of `linear list` and `binary tree`.
+In this project, I constructed a function demonstration system with menu to realize the basic operations of `linear list` and `binary tree`.
 
 The introduction of the contents of these files is as follows.
 
