@@ -1,6 +1,6 @@
 # Introduction
 
-A simple `course project` of `data structure`.
+A simple `course project` for `data structure`.
 
 In this project, I constructed a function demonstration system with menu to realize the basic operation of `linear list` and `binary tree`.
 
